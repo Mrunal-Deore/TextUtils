@@ -36,8 +36,8 @@ function App() {
     <>
       <BrowserRouter>
         <Navbar
-          title="AuroraBake"
-          aboutText="Aurora's"
+          title="TextUtils"
+          aboutText="About Us"
           toggleMode={toggleMode}
           mode={mode}
         />
